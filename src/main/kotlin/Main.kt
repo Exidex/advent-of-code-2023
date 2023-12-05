@@ -1,3 +1,3 @@
 fun main() {
-    day4part2()
+    day5part2()
 }
